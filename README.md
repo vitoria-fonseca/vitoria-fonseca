@@ -2,8 +2,7 @@
 ## Hi 👋 My name is Vitoria
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitoria-fonseca)](https://github.com/vitoria-fonseca)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fonsecagvitoria/)](https://https://www.linkedin.com/in/fonsecagvitoria/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fonsecagvitoria/)](https://www.linkedin.com/in/fonsecagvitoria/)
 #### About me:
 
 I'm an 18 year old software engineering student. Enthusiastic about the world of technology and the ability to solve the most complex challenges through programming. My main objective at the moment is to develop the skills that underlie the area of ​​software engineering so that, in a second moment, i can delve deeper into more specific skills.
